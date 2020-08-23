@@ -14,5 +14,5 @@ end
 
 
 
-def method(board, input_to_index, character = "X")
+def move(board, input_to_index, character = "X")
   
